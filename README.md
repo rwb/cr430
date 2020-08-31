@@ -221,7 +221,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 ### Lesson 8 - Monday 8/31/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/s2TTqiC8j5s).
 * Current reading is [here](https://arxiv.org/pdf/1204.6735v4.pdf).
 * Reasons why reporting rate is lower than expected.
 * ba = actual number of burglaries
