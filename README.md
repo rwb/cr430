@@ -237,7 +237,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 ### Lesson 9 - Tuesday 9/1/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/TH17xaIeIu0).
 * Current reading is [here](https://arxiv.org/pdf/1204.6735v4.pdf).
 * This will be the last lecture covered for Assignment #2.
 * Assignment #2 will open on Blackboard at Thursday 9/3/20 at 12:01am and remain open until Friday 9/4/20 at 11:59pm.
