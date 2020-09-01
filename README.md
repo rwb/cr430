@@ -234,3 +234,22 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 * Key problem is that we can measure the burglaries known to the police at the city level but we don't usually measure the reporting rate.
 * So, comparing, bp across cities or over time within the same city is easy.
 * Comparing ba across cities or over time within the same city is hard.
+
+### Lesson 9 - Tuesday 9/1/20
+
+* Lecture link is coming soon.
+* Current reading is [here](https://arxiv.org/pdf/1204.6735v4.pdf).
+* This will be the last lecture covered for Assignment #2.
+* Assignment #2 will open on Blackboard at Thursday 9/3/20 at 12:01am and remain open until Friday 9/4/20 at 11:59pm.
+* There will be 5 questions with a 30-minute time window once you begin working on the assignment.
+* You may recall that during last week's assignment, I only gave you 25 minutes to complete the work -- which was a mistake.
+* Since I can't give you the 5 minutes back on Assignment #1, I am giving each student in the class who attempted the assignment 3 extra credit points.
+* You should now be able to see the extra 3 points along with your grade on Assignment 1 in Blackboard.
+* I am sorry for this mistake.
+* The FBI burglary rates are fractons: (# of burglaries/size of population) x 100,000 
+* The question arises, how should we count the population?
+* Maybe we should be looking at households rather than population.
+* The difference between counting households and population doesn't matter if the # of people per household is the same across cities.
+* The problem is that the # of people per household does vary across cities.
+* In the end, factors such as the fraction of burglaries reported to the police and the use of households vs. population in the denominator of the rate can have significant effects on conclusions we draw.
+* For an illustration of this be sure to look at the example comparison of Charlotte and Wilmington on pages 19-20 of the paper.
