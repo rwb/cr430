@@ -246,7 +246,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 * Since I can't give you the 5 minutes back on Assignment #1, I am giving each student in the class who attempted the assignment 3 extra credit points.
 * You should now be able to see the extra 3 points along with your grade on Assignment 1 in Blackboard.
 * I am sorry for this mistake.
-* The FBI burglary rates are fractons: (# of burglaries/size of population) x 100,000 
+* The FBI burglary rates are fractions: (# of burglaries/size of population) x 100,000 
 * The question arises, how should we count the population?
 * Maybe we should be looking at households rather than population.
 * The difference between counting households and population doesn't matter if the # of people per household is the same across cities.
