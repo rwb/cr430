@@ -256,6 +256,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 ### Lesson 10 - Saturday 9/5/20
 
+* Lecture link is [here](https://youtu.be/6h1jz3SDed4).
 * *Note*: Today's lesson is the first lesson for Assignment #3 which will occur on Thursday 9/4 and Friday 9/5.
 * Please make sure you have 30 minutes set aside to do the assignment when you start it. Once you begin the assignment you have to complete it in one sitting.
 * Current reading is [here](https://www.bjs.gov/content/pub/pdf/ntcm_2014.pdf), [here](https://www.bjs.gov/content/pub/pdf/cv18.pdf), and [here](https://www.bjs.gov/content/pub/pdf/ntmh.pdf).
