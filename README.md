@@ -253,3 +253,19 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 * The problem is that the # of people per household does vary across cities.
 * In the end, factors such as the fraction of burglaries reported to the police and the use of households vs. population in the denominator of the rate can have significant effects on conclusions we draw.
 * For an illustration of this be sure to look at the example comparison of Charlotte and Wilmington on pages 19-20 of the paper.
+
+### Lesson 10 - Saturday 9/5/20
+
+* Current reading is [here](https://www.bjs.gov/content/pub/pdf/ntcm_2014.pdf), [here](https://www.bjs.gov/content/pub/pdf/cv18.pdf), and [here](https://www.bjs.gov/content/pub/pdf/ntmh.pdf).
+* There are several different ways of measuring crime that we need to emphasize.
+* UCR (and, in the future, NIBRS) are based on police statistics.
+* NCVS (and, in the past, the NCS) are based on crime victimization surveys.
+* Our measures of murder and homicide present slightly different issues and there are two measures of those crimes.
+
+<p align="center">
+<img src="homicides.png" width="700px">
+</p>
+
+<p align="center">
+<img src="ncschomicides.png" width="700px">
+</p>
