@@ -266,7 +266,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 ### Lesson 11 - Sunday 9/6/20
 
-* Today's lecture link is [coming soon].
+* Today's lecture link is [here](https://youtu.be/HvagibNOhhI).
 * Our measures of murder and homicide present slightly different issues and there are two measures of those crimes.
 * The first measure is based on information from the U.S. Centers for Disease Control ([link](https://www.cdc.gov/nchs/fastats/homicide.htm)).
 * The second measure is based on murder/non-negligent manslaughter data from the FBI's Uniform Crime Reporting Program ([link](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/topic-pages/murder)).
