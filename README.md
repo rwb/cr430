@@ -271,10 +271,8 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 * The first measure is based on information from the U.S. Centers for Disease Control ([link](https://www.cdc.gov/nchs/fastats/homicide.htm)).
 * The second measure is based on murder/non-negligent manslaughter data from the FBI's Uniform Crime Reporting Program ([link](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/topic-pages/murder)).
 * In general, the homicide data is a superset of the murder data ([details](https://www.bjs.gov/content/pub/pdf/ntmh.pdf)).
-
-<p align="center">
-<img src="homicides.png" width="700px">
-</p>
+* Here is a [link](https://github.com/rwb/homicide/blob/master/README.md) to a long-term chart showing both time series.
+* This chart shows the death certificate and murder data for North and South Carolina during the first decade of the 21st century.
 
 <p align="center">
 <img src="ncschomicidesa.png" width="800px">
