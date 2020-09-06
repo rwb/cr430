@@ -263,12 +263,19 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 * There are several different ways of measuring crime that we need to emphasize.
 * UCR (and, in the future, NIBRS) are based on police statistics.
 * NCVS (and, in the past, the NCS) are based on crime victimization surveys.
+
+### Lesson 11 - Sunday 9/6/20
+
+
 * Our measures of murder and homicide present slightly different issues and there are two measures of those crimes.
+* The first measure is based on information from the U.S. Centers for Disease Control ([link](https://www.cdc.gov/nchs/fastats/homicide.htm)).
+* The second measure is based on murder/non-negligent manslaughter data from the FBI's Uniform Crime Reporting Program ([link](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/topic-pages/murder)).
+* In general, the homicide data is a superset of the murder data ([details](https://www.bjs.gov/content/pub/pdf/ntmh.pdf)).
 
 <p align="center">
 <img src="homicides.png" width="700px">
 </p>
 
 <p align="center">
-<img src="ncschomicides.png" width="700px">
+<img src="ncschomicidesa.png" width="800px">
 </p>
