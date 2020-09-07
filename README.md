@@ -280,7 +280,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 ### Lesson 12 - Monday 9/7/20
 
-* Today's lecture link is coming soon.
+* Today's lecture link is [here](https://youtu.be/Khgflqc_x5k).
 * One additional note about the NC-SC homicide figure we discussed in last lecture.
 * That figure doesn't take into consideration the size of the population in the two states.
 * Here is the very first National Crime Survey (NCS) [report](https://www.ncjrs.gov/pdffiles1/34732.pdf) from 1973.
