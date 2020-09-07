@@ -277,3 +277,12 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 <p align="center">
 <img src="ncschomicidesa.png" width="800px">
 </p>
+
+### Lesson 12 - Monday 9/7/20
+
+* Today's lecture link is coming soon.
+* One additional note about the NC-SC homicide figure we discussed in last lecture.
+* That figure doesn't take into consideration the size of the population in the two states.
+* Here is the very first National Crime Survey (NCS) [report](https://www.ncjrs.gov/pdffiles1/34732.pdf) from 1973.
+* Here is the most recent National Crime Victimization Survey (NCVS) [report](https://www.bjs.gov/content/pub/pdf/cv18.pdf).
+* Here is a link to the long-term trends in property and violent crime from the [NCVS](https://github.com/rwb/ncvs).
