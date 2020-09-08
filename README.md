@@ -286,3 +286,25 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 * Here is the very first National Crime Survey (NCS) [report](https://www.ncjrs.gov/pdffiles1/34732.pdf) from 1973.
 * Here is the most recent National Crime Victimization Survey (NCVS) [report](https://www.bjs.gov/content/pub/pdf/cv18.pdf).
 * Here is a link to the long-term trends in property and violent crime from the [NCVS](https://github.com/rwb/ncvs).
+
+### Lesson 13 - Tuesday 9/8/20
+
+* Today's lecture is coming soon.
+* The material covered today is the last material on Assignment #3 which will be posted from Thursday 9/10 to Friday 9/11.
+* We've spent some significant time discussing the major ways of measuring crime in the U.S.
+* Today, I want to spend a few minutes summarizing some of the things we've learned.
+* UCR data comes from local police departments.
+* NCVS data comes from surveys of a representative sample of American households.
+* Estimates based on the NCVS are subject to sampling error.
+* UCR data counts crimes that are known to the police.
+* NCVS data counts crimes that are known and unknown to the police but is subject to honesty and recall limitations.
+* UCR agency participation is voluntary (but compliance is high).
+* NCVS respondent participation is also voluntary (but participation rates are high).
+* Most crimes are not reported to the police.
+* There is significant variability in the reporting of crime among different crime types.
+* For violent crime, murder and robbery are most likely to be reported; simple assaults are least likely to be reported.
+* For property crime, motor vehicle theft is most likely to be reported; larceny is least likely to be reported.
+* The nation's two measures of murder/homicide are the UCR (police data) and data based on death certificates (CDC/NCHS).
+* The death certificate data generally yields higher numbers of homicide incidents than the UCR data; why?
+* Consider the distinction between a homicide (what is counted in the CDC data) and a murder (what is counted in the UCR data).
+* Consider the participation rate of law enforcement agencies in the UCR in comparison to state compliance with death certificate reporting protocols.
