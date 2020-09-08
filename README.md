@@ -289,7 +289,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 ### Lesson 13 - Tuesday 9/8/20
 
-* Today's lecture is coming soon.
+* Today's lecture is [here](https://youtu.be/4lob0Sz4Kpg).
 * The material covered today is the last material on Assignment #3 which will be posted from Thursday 9/10 to Friday 9/11.
 * We've spent some significant time discussing the major ways of measuring crime in the U.S.
 * Today, I want to spend a few minutes summarizing some of the things we've learned.
