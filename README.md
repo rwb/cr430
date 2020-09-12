@@ -314,6 +314,8 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 * Today's lecture is coming soon.
 * Reminder that first papers are due on Wednesday 9/30/20.
+* Today is the beginning of the material on community surveys.
+* Curren reading is ([this](https://www.theiacp.org/resources/sample-community-surveys), [this](https://www.bjs.gov/content/pub/pdf/cvpcs98.pdf), and [this](https://www.greenvillesc.gov/DocumentCenter/View/9609/2017-Greenville-Police-REPORT-PDF-6-14-17?bidId=)).
 * Last week, we spent most of our time considering various national statistics and trends.
 * Today, we turn to the issue of community surveys.
 * Most community surveys are conducted through some form of random sampling.
