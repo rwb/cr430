@@ -309,3 +309,97 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 * The death certificate data generally yields higher numbers of homicide incidents than the UCR data; why?
 * Consider the distinction between a homicide (what is counted in the CDC data) and a murder (what is counted in the UCR data).
 * Consider the participation rate of law enforcement agencies in the UCR in comparison to state compliance with death certificate reporting protocols.
+
+### Lesson 14 - Saturday 9/12/20
+
+* Today's lecture is coming soon.
+* Reminder that first papers are due on Wednesday 9/30/20.
+* Last week, we spent most of our time considering various national statistics and trends.
+* Today, we turn to the issue of community surveys.
+* Most community surveys are conducted through some form of random sampling.
+* Let's see how this works.
+* Suppose we have a population of 1M people.
+* Within that population, suppose that 10% of these people have been victimized.
+* Can we survey a sample of these people and still get useful information about the victimization rate in the population?
+* Here is an experiment to look at this idea more closely.
+
+```Rout
+> pop.vic <- c(rep("yes",100000),rep("no",900000))
+>
+> s1 <- sample(pop.vic,size=1000,replace=T)
+> s2 <- sample(pop.vic,size=1000,replace=T)
+> s3 <- sample(pop.vic,size=1000,replace=T)
+> s4 <- sample(pop.vic,size=1000,replace=T)
+> s5 <- sample(pop.vic,size=1000,replace=T)
+> s6 <- sample(pop.vic,size=1000,replace=T)
+> s7 <- sample(pop.vic,size=1000,replace=T)
+> s8 <- sample(pop.vic,size=1000,replace=T)
+> s9 <- sample(pop.vic,size=1000,replace=T)
+> s0 <- sample(pop.vic,size=1000,replace=T)
+> 
+> table(s1)
+s1
+ no yes 
+893 107 
+> table(s2)
+s2
+ no yes 
+892 108 
+> table(s3)
+s3
+ no yes 
+894 106 
+> table(s4)
+s4
+ no yes 
+894 106 
+> table(s5)
+s5
+ no yes 
+897 103 
+> table(s6)
+s6
+ no yes 
+902  98 
+> table(s7)
+s7
+ no yes 
+904  96 
+> table(s8)
+s8
+ no yes 
+911  89 
+> table(s9)
+s9
+ no yes 
+927  73 
+> table(s0)
+s0
+ no yes 
+889 111 
+> 
+> x <- c(107,108,106,106,103,98,96,89,73,111)
+> mean(x)
+[1] 99.7
+> 
+```
+
+* This is an ideal world experiment.
+* Some problems that arise in the real world: (1) nonresponse; (2) inaccurate reporting; (3) sampling isn't truly random.
+* Let's consider an example of these problems.
+* Suppose the people who are crime victims are twice as likely not to respond to the survey as people who were not victimized.
+* How can we make progress?
+* Consider our first sample, where 107 people reported they had been victimized while 893 people reported no victimization.
+* Let's suppose that in the real world, only 85 of the 107 people who had been victimized were willing to answer the question.
+* Let's further suppose that in the real world that 880 of the 893 people who had not been victimized were willing to answer the question.
+* This means that in this real world sample, we would have 3 groups of people: (1) 85 victims; (2) 880 non-victims; and (3) 22 + 13 = 35 nonresponses.
+* We could just ignore the nonresponses and estimate the victimization rate as 85/(880+85) = 0.088 (this is a point estimate).
+* We can see that this significantly underestimates the true victimization rate (0.107).
+* Another approach is to calculate an interval estimate.
+* The lower bound of the interval assumes that all of the nonresponses were non-victims: 85/(880+85+35) = 0.085.
+* The upper bound of the interval assumes that all of the nonresponses were victims: (85+35)/(880+85+35) = 0.12.
+* This analysis would conclude that the true victimization rate is somewhere between 0.085 and 0.12.
+* We know the true answer is 0.107 which lies in the interval.
+* In the real world all we would be able to tell is that the true number would be somewhere in the interval.
+* All community survey research has to deal with the problem of nonresponse and this is one way to deal with it (there are others).
+
