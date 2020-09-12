@@ -386,7 +386,10 @@ s0
 > 
 ```
 
-* This is an ideal world experiment.
+### Lesson 15 - Sunday 9/13/20
+
+* Lecture will be posted on Sunday 9/13/20.
+* The experiment we coverd in Lesson 14 is an ideal world experiment.
 * Some problems that arise in the real world: (1) nonresponse; (2) inaccurate reporting; (3) sampling isn't truly random.
 * Let's consider an example of these problems.
 * Suppose the people who are crime victims are twice as likely not to respond to the survey as people who were not victimized.
