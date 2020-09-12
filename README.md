@@ -312,7 +312,7 @@ Lecture link is [here](https://youtu.be/6UvGiAf1JPI).
 
 ### Lesson 14 - Saturday 9/12/20
 
-* Today's lecture is coming soon.
+* Today's lecture is [here](https://youtu.be/05h_-3T5z7Y).
 * Reminder that first papers are due on Wednesday 9/30/20.
 * Today is the beginning of the material on community surveys and Assignment #4.
 * Curren reading is ([this](https://www.theiacp.org/resources/sample-community-surveys), [this](https://www.bjs.gov/content/pub/pdf/cvpcs98.pdf), and [this](https://www.greenvillesc.gov/DocumentCenter/View/9609/2017-Greenville-Police-REPORT-PDF-6-14-17?bidId=)).
