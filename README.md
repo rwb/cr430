@@ -388,12 +388,17 @@ s0
 
 ### Lesson 15 - Sunday 9/13/20
 
-* Lecture will be posted on Sunday 9/13/20.
+* Lecture link is [here](https://youtu.be/BoTjvQXGQWY).
 * Reminder that first papers are due on Wednesday 9/30/20.
 * Current reading is [here](https://www.theiacp.org/resources/sample-community-surveys).
-* The experiment we coverd in Lesson 14 is an ideal world experiment.
+* The experiment we covered in Lesson 14 is an ideal world experiment.
 * Some problems that arise in the real world: (1) nonresponse; (2) inaccurate reporting; (3) sampling isn't truly random.
-* Let's consider an example of these problems.
+
+### Lesson 16 - Monday 9/14/20
+
+* Lecture will be posted on Monday 9/14/20.
+* Current reading is [here](https://www.theiacp.org/resources/sample-community-surveys).
+* Let's consider an example of the three types of problems that typically arise in community surveys.
 * Suppose the people who are crime victims are twice as likely not to respond to the survey as people who were not victimized.
 * How can we make progress?
 * Consider our first sample, where 107 people reported they had been victimized while 893 people reported no victimization.
