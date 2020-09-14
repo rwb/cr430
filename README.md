@@ -396,7 +396,7 @@ s0
 
 ### Lesson 16 - Monday 9/14/20
 
-* Lecture will be posted on Monday 9/14/20.
+* Lecture link is [here](https://youtu.be/QeQ_Ri-xBEc).
 * Current reading is [here](https://www.theiacp.org/resources/sample-community-surveys).
 * Let's consider an example of the three types of problems that typically arise in community surveys.
 * Suppose the people who are crime victims are twice as likely not to respond to the survey as people who were not victimized.
@@ -414,4 +414,3 @@ s0
 * We know the true answer is 0.107 which lies in the interval.
 * In the real world all we would be able to tell is that the true number would be somewhere in the interval.
 * All community survey research has to deal with the problem of nonresponse and this is one way to deal with it (there are others).
-
