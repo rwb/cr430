@@ -417,7 +417,7 @@ s0
 
 ### Lesson 17 - Tuesday 9/15/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/A82fkOLvCdM).
 * Today's lesson is the final material for assignment #4 which will be posted from Thursday 9/17 to Friday 9/18.
 * I told you all that the new NCVS report would be coming out during the semester and it's just been released ([here](https://www.bjs.gov/content/pub/pdf/cv19.pdf)).
 * Our next readings include the BJS community surveys ([here](https://www.bjs.gov/content/pub/pdf/cvpcs98.pdf)).
