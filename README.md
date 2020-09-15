@@ -414,3 +414,12 @@ s0
 * We know the true answer is 0.107 which lies in the interval.
 * In the real world all we would be able to tell is that the true number would be somewhere in the interval.
 * All community survey research has to deal with the problem of nonresponse and this is one way to deal with it (there are others).
+
+### Lesson 17 - Tuesday 9/15/20
+
+* Lecture link is coming soon.
+* Today's lesson is the final material for assignment #4 which will be posted from Thursday 9/17 to Friday 9/18.
+* I told you all that the new NCVS report would be coming out during the semester and it's just been released ([here](https://www.bjs.gov/content/pub/pdf/cv19.pdf)).
+* Our next readings include the BJS community surveys ([here](https://www.bjs.gov/content/pub/pdf/cvpcs98.pdf)).
+* This report looks closely at crime experiences, police reporting behavior, and other public safety perceptions for 12 cities in the late 1990's.
+* We will not be able to get to the Greenville community survey until next week.
