@@ -420,6 +420,6 @@ s0
 * Lecture link is [here](https://youtu.be/A82fkOLvCdM).
 * Today's lesson is the final material for assignment #4 which will be posted from Thursday 9/17 to Friday 9/18.
 * I told you all that the new NCVS report would be coming out during the semester and it's just been released ([here](https://www.bjs.gov/content/pub/pdf/cv19.pdf)).
-* Our next readings include the BJS community surveys ([here](https://www.bjs.gov/content/pub/pdf/cvpcs98.pdf)).
+* Our next reading includes the 1998 BJS community surveys ([here](https://www.bjs.gov/content/pub/pdf/cvpcs98.pdf)).
 * This report looks closely at crime experiences, police reporting behavior, and other public safety perceptions for 12 cities in the late 1990's.
 * We will not be able to get to the Greenville community survey until next week.
