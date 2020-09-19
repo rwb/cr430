@@ -426,7 +426,7 @@ s0
 
 ### Lesson 18 - Saturday 9/19/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/BE2o32OLTxo).
 * Today's lession is the first material for Assignment #5 which will be posted from Thursday 9/24 to Friday 9/25.
 * Our current reading is [here](https://www.greenvillesc.gov/DocumentCenter/View/9609/2017-Greenville-Police-REPORT-PDF-6-14-17?bidId=).
 * This is a recent example of a local community survey conducted in Greenville S.C.
