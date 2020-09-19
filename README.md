@@ -423,3 +423,21 @@ s0
 * Our next reading includes the 1998 BJS community surveys ([here](https://www.bjs.gov/content/pub/pdf/cvpcs98.pdf)).
 * This report looks closely at crime experiences, police reporting behavior, and other public safety perceptions for 12 cities in the late 1990's.
 * We will not be able to get to the Greenville community survey until next week.
+
+### Lesson 18 - Saturday 9/19/20
+
+* Lecture link is coming soon.
+* Today's lession is the first material for Assignment #5 which will be posted from Thursday 9/24 to Friday 9/25.
+* Our current reading is [here](https://www.greenvillesc.gov/DocumentCenter/View/9609/2017-Greenville-Police-REPORT-PDF-6-14-17?bidId=).
+* This is a recent example of a local community survey conducted in Greenville S.C.
+* Survey methodology discussion
+* Sampling
+* How people were contacted.
+* Length of interview
+* Number of people surveyed
+* Response rate
+* Margin of error
+* Balancing
+* Rating scales
+* Treatment of "don't know" responses
+* Comparison survey
