@@ -444,10 +444,10 @@ s0
 
 ### Lesson 19 - Sunday 9/20/20
 
-* Lecture link is [here](
+* Lecture link is [here](https://youtu.be/GT_P3rE2yPU).
 * Our current reading is [here](https://www.greenvillesc.gov/DocumentCenter/View/9609/2017-Greenville-Police-REPORT-PDF-6-14-17?bidId=).
 * Qualifications/limitations to representation of survey statement at bottom of page 3.
 * Impact of margin of error on interpretation of comparisons and trends in the community survey.
 * Tension between financial costs of survey research and minimizing the margin of error in a specific survey.
 * Considering disparate perceptions of police between different race groups in the population.
-* Perceptions of the local police department and how those perceptions might be shaped by what is occurring in other police departments.
+* Perceptions of the local police department and how those perceptions might be shaped by what is occurring elsewhere.
