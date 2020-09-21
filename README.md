@@ -451,3 +451,18 @@ s0
 * Tension between financial costs of survey research and minimizing the margin of error in a specific survey.
 * Considering disparate perceptions of police between different race groups in the population.
 * Perceptions of the local police department and how those perceptions might be shaped by what is occurring elsewhere.
+
+### Lesson 20 - Monday 9/21/20
+
+* Lecture link is coming soon.
+* Our current reading is [here](https://www.greenvillesc.gov/DocumentCenter/View/9609/2017-Greenville-Police-REPORT-PDF-6-14-17?bidId=).
+* There could be some conflating of the Greenville police department with other law enforcement agencies.
+* Some investigation concerns were expressed by the small number of persons who were crime victims (slide 17).
+* Relatively few people in the survey have had direct contact with the Greenville police (slides 47 and 51).
+* Largest category of reasons for overall dissatisfaction was based on perceptions related to race (slide 27)
+* Largest category of reasons for dissatisfaction with use of force was based on news stories and perceptions related to race (slide 36)
+* Most people get their information about the police in Greenville from television and newspaper coverage (slide 39)
+* Relatively few people engage with the police department's internet presence (slides 53 and 55).
+* Broad support for body camera program (slide 57).
+* Some race disparities in trust that the program will be appropriately implemented (slide 59).
+* Most people in the sample lived in a single family home and have lived in the city for at least 10 years (slide 64)
