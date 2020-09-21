@@ -454,7 +454,7 @@ s0
 
 ### Lesson 20 - Monday 9/21/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/_HiBi_wpkH0).
 * Our current reading is [here](https://www.greenvillesc.gov/DocumentCenter/View/9609/2017-Greenville-Police-REPORT-PDF-6-14-17?bidId=).
 * There could be some conflating of the Greenville police department with other law enforcement agencies.
 * Some investigation concerns were expressed by the small number of persons who were crime victims (slide 17).
