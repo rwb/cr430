@@ -466,3 +466,21 @@ s0
 * Broad support for body camera program (slide 57).
 * Some race disparities in trust that the program will be appropriately implemented (slide 59).
 * Most people in the sample lived in a single family home and have lived in the city for at least 10 years (slide 64)
+
+### Lesson 21 - Tuesday 9/22/20
+
+* Lecture link is coming soon.
+* Our current [reading][Jensen (2003)](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
+* Today's lesson is the final material for Assignment #5 which will be posted from Thursday 9/24/20 - Friday 9/25/20.
+* Overview of the Chicago School
+* Population growth in the city of Chicago
+* Immigration and migration to the city.
+* Social disorganization.
+
+<p align="center">
+<img src="fig3.png" width="800px">
+</p>
+
+<p align="center">
+<img src="fig4a.png" width="500px">
+</p>
