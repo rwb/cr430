@@ -469,8 +469,8 @@ s0
 
 ### Lesson 21 - Tuesday 9/22/20
 
-* Lecture link is coming soon.
-* Our current [reading][Jensen (2003)](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
+* Lecture link is [here](https://youtu.be/oT4opRAhr8s).
+* Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
 * Today's lesson is the final material for Assignment #5 which will be posted from Thursday 9/24/20 - Friday 9/25/20.
 * Overview of the Chicago School
 * Population growth in the city of Chicago
