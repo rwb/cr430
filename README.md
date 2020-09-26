@@ -484,3 +484,22 @@ s0
 <p align="center">
 <img src="fig4a.png" width="500px">
 </p>
+
+
+### Lesson 22 - Saturday 9/26/20
+
+* Lecture link is coming soon.
+* Reminder: first papers are due on Wednesday 9/30/20.
+* Papers should be submitted as a pdf file using the link provided on Blackboard.
+* Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
+* The early Chicago School researchers were profoundly concerned with relationships.
+* We see the emphasis on relationships on the first page of the Jensen article.
+* Today we consider the idea of control emanating from the writings of Emile Durkheim.
+* Durkheim's writings would later form the foundation of some of the work of Clifford Shaw and Henry McKay (mentioned in this reading).
+* Durkheim's writings would also later inform the work of control theorists like Travis Hirschi and Ruth Kornhauser.
+* Control theories predict that people will naturally seek to satisfy their own self-interest unless they are somehow restrained or inhibited.
+* Most offending -- according to control theory -- does not need to be motivated. It has its own motivation built-in.
+* According to traditional control theory, offending is restrained by the social bond: attachments, commitments, involvement, and moral beliefs.
+* Relationships offer a means of restraint that can be an inhibitor of offending.
+* A rapidly changing community can create challenges for the development of crime-inhibiting relationships.
+* Stable communities offer the potential of fostering crime-inhibiting relationships.
