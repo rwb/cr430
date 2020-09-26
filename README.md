@@ -488,7 +488,7 @@ s0
 
 ### Lesson 22 - Saturday 9/26/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/F7XLsRl_Esw).
 * Reminder: first papers are due on Wednesday 9/30/20.
 * Papers should be submitted as a pdf file using the link provided on Blackboard.
 * Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
