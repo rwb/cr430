@@ -503,3 +503,14 @@ s0
 * Relationships offer a means of restraint that can be an inhibitor of offending.
 * A rapidly changing community can create challenges for the development of crime-inhibiting relationships.
 * Stable communities offer the potential of fostering crime-inhibiting relationships.
+
+### Lesson 23 - Sunday 9/27/20
+
+* Lecture link is coming soon.
+* Reminder: first papers are due on Wednesday 9/30/20 (you can submit through the Paper #1 link under Assignments in Blackboard).
+* Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
+* The emphasis on relationships in the Chicago School evolved into two distinct theoretical ideas (pp. 2-4).
+* Edwin Sutherland's ideas about distinct cultural values oriented around crime and violence (pp. 2-3) - differential social organization.
+* Clifford Shaw and Henry McKay's ideas around breakdown of community controls (pp. 3-4) - social disorganization.
+* Major theoretical debate in the field of criminology: cultural deviance vs. cultural consensus.
+* Key empirical/scientific observations (p. 3). 
