@@ -514,3 +514,14 @@ s0
 * Clifford Shaw and Henry McKay's ideas around breakdown of community controls (pp. 3-4) - social disorganization.
 * Major theoretical debate in the field of criminology: cultural deviance vs. cultural consensus.
 * Key empirical/scientific observations (p. 3). 
+
+### Lesson 24 - Monday 9/28/20
+
+* Lecture link is coming soon.
+* Reminder: first papers are due on Wednesday. Please note I've gotten a couple of questions about strategies for writing these papers. My standard response to these questions is that I don't deduct points for issues that are not explicitly discussed in the rubric. What this means is that some students may approach the paper somewhat differently than other students and everyone should understand that this is not a problem. Write the paper the way you want to write it and make sure you attend to the issues I've asked you to address in the rubric.
+* Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
+* Albert Cohen's (1955) perspective (pp. 5-6): (1) motivation; and (2) organization vs. disorganization.
+* Robert Merton (1957; p. 5): pressure and strain as a cause of problem behavior.
+* Theoretical ambiguity around the idea of social disorganization and tautology (pp. 6-7).
+* Migration and mobility as a cause of crime (pp. 7-8).
+* Social disorganization vs. social integration (pp. 8-9).
