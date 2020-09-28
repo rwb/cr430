@@ -522,6 +522,7 @@ s0
 * Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf).
 * Albert Cohen's (1955) perspective (pp. 5-6): (1) motivation; and (2) organization vs. disorganization.
 * Robert Merton (1957; p. 5): pressure and strain as a cause of problem behavior.
+* Travis Hirschi's response to concerns raised by Cohen and Meton (p. 5).
 * Theoretical ambiguity around the idea of social disorganization and tautology (pp. 6-7).
 * Migration and mobility as a cause of crime (pp. 7-8).
 * Social disorganization vs. social integration (pp. 8-9).
