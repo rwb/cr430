@@ -524,3 +524,21 @@ s0
 * Robert Merton (1957; p. 5): pressure and strain as a cause of problem behavior.
 * Travis Hirschi's response to concerns raised by Cohen and Meton (p. 5).
 * Theoretical ambiguity around the idea of social disorganization and tautology (pp. 6-7).
+
+### Lesson 25 - Tuesday 9/29/20
+
+* Lecture link is coming soon.
+* Final reminder: first papers are due tomorrow (submit as pdf file on Blackboard)
+* Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf)
+* Today's material concludes the information covered on Assignment #6 (Thursday 10/1 - Friday 10/2).
+* Review of theoretical ambiguity issues concerning social disorganization theory (pp. 6-7).
+* Overview of contemporary developments and advances in social disorganization theory (pp. 8-19).
+* Crime types (p. 8)
+* Sampson and Groves' (1989) work (pp. 9-10)
+* Collective efficacy as an extension of social disorganization (pp. 8-10).
+* Patterson's (1991) work (p. 10)
+* Possiblity of reciprocal relationships (pp. 11-12)
+* Empirical support: "Hence, when research has addressed the criticisms based on prior research, the findings have been quite compatible with social disorganization theory" (p. 10).
+* Ongoing ambiguity about cultural values; research looking at attitudes and opinions of people in neighborhoods (pp. 13-15).
+* While it is hard to find large groups of people who "value" criminal behavior, Taylor (2001) finds that "one of the characteristics of residents in socially disorganized locales is that they “hold different values about what is and is not acceptable behavior on the street (2001: 129).” (p. 17)
+* Studying attitudes and opinions at the neighborhood level can be quite challenging so this research is somewhat difficult to interpret.
