@@ -527,7 +527,7 @@ s0
 
 ### Lesson 25 - Tuesday 9/29/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/eE0cRTy92NE).
 * Final reminder: first papers are due tomorrow (submit as pdf file on Blackboard)
 * Our current [reading](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf)
 * Today's material concludes the information covered on Assignment #6 (Thursday 10/1 - Friday 10/2).
