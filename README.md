@@ -83,7 +83,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 ##### Part 2: Theory
 
 * Historical issues: [Jensen (2003)](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf)
-* Social Disorganization Theory: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
+* Social Disorganization Theory: [Sampson and Groves (1989)]
 * Collective Efficacy: [Sampson, Raudenbush, and Earls (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf)
 * Broken Windows: [Kelling and Wilson (1982)](https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/) 
 
@@ -542,3 +542,17 @@ s0
 * Ongoing ambiguity about cultural values; research looking at attitudes and opinions of people in neighborhoods (pp. 13-15).
 * While it is hard to find large groups of people who "value" criminal behavior, Taylor (2001) finds that "one of the characteristics of residents in socially disorganized locales is that they “hold different values about what is and is not acceptable behavior on the street (2001: 129).” (p. 17)
 * Studying attitudes and opinions at the neighborhood level can be quite challenging so this research is somewhat difficult to interpret.
+
+### Lesson 26 - Saturday 10/3/20
+
+* Lecture link is coming soon.
+* *Note*: I should have your first paper grades and comments posted by Thursday; it usually takes me about a week to grade them for the whole class.
+* Our new reading is [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail).
+* Paper begins with a review of the causes of social disorganization as described by Shaw and McKay (pp. 774-775).
+* On p. 775, the paper argues that no one has fully tested the theory prior to this article's being written.
+* A key question is why not?
+* Sampson and Groves give us two answers to this question on pp. 775-776.
+
+<p align="center">
+<img src="sampson-groves.png" width="500px">
+</p>
