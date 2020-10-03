@@ -545,8 +545,9 @@ s0
 
 ### Lesson 26 - Saturday 10/3/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/E5ddF4s8RK8).
 * *Note*: I should have your first paper grades and comments posted by Thursday; it usually takes me about a week to grade them for the whole class.
+* Today's lesson is the first material covered by Assignment #7 which will be posted on Thursday 10/8 to Friday 10/9.
 * Our new reading is [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail).
 * Paper begins with a review of the causes of social disorganization as described by Shaw and McKay (pp. 774-775).
 * On p. 775, the paper argues that no one has fully tested the theory prior to this article's being written.
