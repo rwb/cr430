@@ -554,5 +554,5 @@ s0
 * Sampson and Groves give us two answers to this question on pp. 775-776.
 
 <p align="center">
-<img src="sampson-groves.png" width="500px">
+<img src="sampson-groves.png" width="700px">
 </p>
