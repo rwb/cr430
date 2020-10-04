@@ -573,15 +573,3 @@ s0
 * A key issue mentioned by Sampson and Groves on p. 778 is that social disorganization - when formulated in this way - is distinct from its causes and its consequences.
 * On pp. 778-780, Sampson and Groves provide us with a detailed description of the key symptoms and issues that arise in a socially disorganized environment -- all directly derived from the work of Shaw and McKay.
 * The first symptom is unsupervised teenage peer groups (pp. 778-779).
-
-#<p align="center">
-#<img src="nc-recid.png" width="500px">
-#</p>
-
-#<p align="center">
-#<img src="pathways-recid1.png" width="500px">
-#</p>
-
-#<p align="center">
-#<img src="pathways-recid2.png" width="500px">
-#</p>
