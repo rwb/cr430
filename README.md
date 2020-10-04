@@ -83,7 +83,7 @@ Weekly assignments will be posted on Blackboard and you should complete your ass
 ##### Part 2: Theory
 
 * Historical issues: [Jensen (2003)](https://web.archive.org/web/20060828035614/http://sitemason.vanderbilt.edu/files/l/l3Bguk/socdis.pdf)
-* Social Disorganization Theory: [Sampson and Groves (1989)]
+* Social Disorganization Theory: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Collective Efficacy: [Sampson, Raudenbush, and Earls (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf)
 * Broken Windows: [Kelling and Wilson (1982)](https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/) 
 
@@ -557,3 +557,8 @@ s0
 <p align="center">
 <img src="sampson-groves.png" width="700px">
 </p>
+
+### Lesson 27 - Sunday 10/4/20
+
+* Lecture link is coming soon.
+* 
