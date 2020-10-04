@@ -561,4 +561,27 @@ s0
 ### Lesson 27 - Sunday 10/4/20
 
 * Lecture link is coming soon.
-* 
+* Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
+* Sampson and Groves aim to address limitations of past research with their study based on survey data from Great Britain (p. 777).
+* Their use of survey data from Great Britain underscores an important issue with criminological theories: they should have a reasonable degree of generality.
+* Survey level measures avoid the ambiguities of official crime data.
+* They are also able to focus their research at the neighborhood or community level.
+* Sampson and Groves give us a useful working definition of social disorganization on p. 777: "the inability of a community structure to realize the common values of its residents and maintain effective social controls."
+* In articulating the idea of social control, Sampson and Groves trace their thinking back to an important paper by Janowitz (1975) who emphasized "the collective pursuit of shared values that are rewarding and meaningful" (footnote #2).
+* This leads to a two-pronged idea of social disorganization connected to what Kasarda and Janowitz (1974) have called the "systemic model." The first prong is related to social networks and relational connections within the community while the second prong involves effective collaboration and oversight of community affairs and troubleshooting of community problems (p. 777).
+* When structural barriers such as poverty, heterogeneity, and mobility interfere with the formation of the pre-requisite relationships in a community, then social disorganization can result.
+* A key issue mentioned by Sampson and Groves on p. 778 is that social disorganization - when formulated in this way - is distinct from its causes and its consequences.
+* On pp. 778-780, Sampson and Groves provide us with a detailed description of the key symptoms and issues that arise in a socially disorganized environment -- all directly derived from the work of Shaw and McKay.
+* The first symptom is unsupervised teenage peer groups (p. 778).
+
+<p align="center">
+<img src="nc-recid.png" width="700px">
+</p>
+
+<p align="center">
+<img src="pathways-recid1.png" width="700px">
+</p>
+
+<p align="center">
+<img src="pathways-recid2.png" width="700px">
+</p>
