@@ -560,7 +560,7 @@ s0
 
 ### Lesson 27 - Sunday 10/4/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/1En61ZBZ9eg).
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Sampson and Groves aim to address limitations of past research with their study based on survey data from Great Britain (p. 777).
 * Their use of survey data from Great Britain underscores an important issue with criminological theories: they should have a reasonable degree of generality.
