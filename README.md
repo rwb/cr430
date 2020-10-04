@@ -575,13 +575,13 @@ s0
 * The first symptom is unsupervised teenage peer groups (p. 778).
 
 <p align="center">
-<img src="nc-recid.png" width="700px">
+<img src="nc-recid.png" width="500px">
 </p>
 
 <p align="center">
-<img src="pathways-recid1.png" width="700px">
+<img src="pathways-recid1.png" width="500px">
 </p>
 
 <p align="center">
-<img src="pathways-recid2.png" width="700px">
+<img src="pathways-recid2.png" width="500px">
 </p>
