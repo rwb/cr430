@@ -576,7 +576,7 @@ s0
 
 ### Lesson 28 - Monday 10/5/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/aJvsWv1n_cw).
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * We begin with the material at the bottom of p. 778 and top of p. 779 - unsupervised teenage peer groups and connections to adult crime.
 * There is both continuity and change in criminality as people move from adolescence into adulthood.
