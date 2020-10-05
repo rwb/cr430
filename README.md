@@ -578,10 +578,14 @@ s0
 
 * Lecture link is coming soon.
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
-* We begin with the material at the bottom of p. 778 and top of p. 779
+* We begin with the material at the bottom of p. 778 and top of p. 779 - unsupervised teenage peer groups and connections to adult crime.
 * There is both continuity and change in criminality as people move from adolescence into adulthood.
-* Sampson and Groves (and Shaw and McKay) tended to emphasize the continuity part of the pattern (see first 3 figures below).
+* Sampson and Groves (and Shaw and McKay) tended to emphasize the continuity part of the pattern (see figures below).
 * This is reasonable but it is also important to consider change (see last figure below).
+* Second dimension of social disorganization - local friendship networks (p. 779).
+* Strong ties among neighbors increases likelihood of recognizing people or circumstances who are out of place and taking collective actions to prevent victimization (p. 779).
+* Third dimension of social disorganization relates to participation in formal and voluntary organizations (p. 779).
+* Such organizations provide a foundation for the community to take action on its own behalf to defend itself and to advance its own interests (pp. 779-780).
 
 <p align="center">
 <img src="nc-recid.png" width="500px">
