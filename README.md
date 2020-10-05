@@ -578,7 +578,10 @@ s0
 
 * Lecture link is coming soon.
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
-* 
+* We begin with the material at the bottom of p. 778 and top of p. 779
+* There is both continuity and change in criminality as people move from adolescence into adulthood.
+* Sampson and Groves (and Shaw and McKay) tended to emphasize the continuity part of the pattern (see first 3 figures below).
+* This is reasonable but it is also important to consider change (see last figure below).
 
 <p align="center">
 <img src="nc-recid.png" width="500px">
@@ -590,4 +593,8 @@ s0
 
 <p align="center">
 <img src="pathways-recid2.png" width="500px">
+</p>
+
+<p align="center">
+<img src="pathways-sr.png" width="500px">
 </p>
