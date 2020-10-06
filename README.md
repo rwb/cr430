@@ -605,7 +605,7 @@ s0
 
 ### Lesson 29 - Tuesday 10/6/20
 
-* Lecture link is [here](https://youtu.be/aJvsWv1n_cw).
+* Lecture link is coming soon.
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Today, we first consider Sampson and Groves' discussion of the causes of social disorganization (pp. 780-782).
 * Our focus is on the leftmost box in Figure 1 (p. 783).
@@ -619,3 +619,4 @@ s0
 * Sampling design: 60 addresses selected in each of 238 ecological areas (i.e., communities - see footnote 6 on p. 783). Interviews were conducted among persons 16 years of age and older in the households that were selected. There was an 80% response rate.
 * This is a type of cluster sampling which is essential for conducting communities and crime research.
 * Measures of social disorganization -- pp. 783-784.
+* This concludes the material that will be covered on Assignment #7 this week.
