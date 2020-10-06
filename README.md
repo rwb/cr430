@@ -605,7 +605,7 @@ s0
 
 ### Lesson 29 - Tuesday 10/6/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/olPlyQgYIQA).
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Today, we first consider Sampson and Groves' discussion of the causes of social disorganization (pp. 780-782).
 * Our focus is on the leftmost box in Figure 1 (p. 783).
