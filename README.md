@@ -618,5 +618,4 @@ s0
 * Next, we turn to how the data was collected for this study (p. 783); the study's main data source was the first British Crime Survey
 * Sampling design: 60 addresses selected in each of 238 ecological areas (i.e., communities - see footnote 6 on p. 783). Interviews were conducted among persons 16 years of age and older in the households that were selected. There was an 80% response rate.
 * This is a type of cluster sampling which is essential for conducting communities and crime research.
-* Measures of social disorganization -- pp. 783-784.
 * This concludes the material that will be covered on Assignment #7 this week.
