@@ -602,3 +602,20 @@ s0
 <p align="center">
 <img src="pathways-sr.png" width="500px">
 </p>
+
+### Lesson 29 - Tuesday 10/6/20
+
+* Lecture link is [here](https://youtu.be/aJvsWv1n_cw).
+* Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
+* Today, we first consider Sampson and Groves' discussion of the causes of social disorganization (pp. 780-782).
+* Our focus is on the leftmost box in Figure 1 (p. 783).
+* The article emphasizes the word "mediation" so we will discuss what that means.
+* Poverty leads to reduced availability of resources which undermines the ability of residents to supervise/control youth and be involved in formal organizations (p. 780).
+* Residential mobility "operates as a barrier to the development of extensive friendship networks, kinship bonds, and local associational ties" (p. 780).
+* Racial and ethnic heterogeneity "thwart[s] the ability of slum residents to achieve consensus" (p. 781).
+* Family disruption reduces the community's ability to "provide increased supervision and guardianship not only for their own children but also for general activities in the community" (p. 781).
+* According to Sampson and Groves, "urbanization may weaken local kinship and friendship networks and impede social participation in local affairs" (p. 782).
+* Next, we turn to how the data was collected for this study (p. 783); the study's main data source was the first British Crime Survey
+* Sampling design: 60 addresses selected in each of 238 ecological areas (i.e., communities - see footnote 6 on p. 783). Interviews were conducted among persons 16 years of age and older in the households that were selected. There was an 80% response rate.
+* This is a type of cluster sampling which is essential for conducting communities and crime research.
+* Measures of social disorganization -- pp. 783-784.
