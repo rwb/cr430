@@ -619,3 +619,18 @@ s0
 * Sampling design: 60 addresses selected in each of 238 ecological areas (i.e., communities - see footnote 6 on p. 783). Interviews were conducted among persons 16 years of age and older in the households that were selected. There was an 80% response rate.
 * This is a type of cluster sampling which is essential for conducting communities and crime research.
 * This concludes the material that will be covered on Assignment #7 this week.
+
+### Lesson 30 - Saturday 10/10/20
+
+* Lecture link is coming soon.
+* Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
+* Today's lesson is the beginning of the material to be covered for Assignment #8.
+* We left off last week with the idea of cluster sampling as applied to ecological areas or neighborhoods (i.e., drawing sample of neighborhoods at random and then draw random samples of cases from the selected neighborhoods; p. 782).
+* Research team ended up with an average of 46 households per neighborhoods (compared to the average of 60 per neighborhood selected).
+* A typical "ecological area" in Sampson and Groves' study is about 5,000 people (p. 783, fn. 6).
+* By comparison, the Shandon neighborhood near UofSC has about 5,800 people living in it.
+* Concepts → Measures (pp. 783-784)
+* Local friendship networks (pp. 783-784).
+* Organizational participation (p. 784).
+* Youth supervision (p. 784).
+* Measuring causes of social disorganization (pp. 784-785).
