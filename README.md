@@ -622,7 +622,7 @@ s0
 
 ### Lesson 30 - Saturday 10/10/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/vQAOKADr2Oc).
 * Update: second short paper was originally due on Monday 10/26. Since I took an extra day to finish up my grading of the first paper, I am pushing back the due date for the second paper to Wednesday 10/28/20.
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Today's lesson is the beginning of the material to be covered for Assignment #8.
