@@ -623,6 +623,7 @@ s0
 ### Lesson 30 - Saturday 10/10/20
 
 * Lecture link is coming soon.
+* Update: second short paper was originally due on Monday 10/26. Since I took an extra day to finish up my grading of the first assignment, I am pushing back the due date for the second paper to Wednesday 10/28/20.
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Today's lesson is the beginning of the material to be covered for Assignment #8.
 * We left off last week with the idea of cluster sampling as applied to ecological areas or neighborhoods (i.e., drawing sample of neighborhoods at random and then draw random samples of cases from the selected neighborhoods; p. 782).
