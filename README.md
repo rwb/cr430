@@ -637,7 +637,7 @@ s0
 
 ### Lesson 31 - Sunday 10/11/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/7TIIgV6nbJY).
 * Measuring causes of social disorganization (pp. 784-785).
 * Socioeconomic status (p. 784)
 * Residential stability/mobility (p. 784)
