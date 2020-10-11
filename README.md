@@ -634,4 +634,20 @@ s0
 * Local friendship networks (pp. 783-784).
 * Organizational participation (p. 784).
 * Youth supervision (p. 784).
+
+### Lesson 31 - Sunday 10/11/20
+
+* Lecture link is coming soon.
 * Measuring causes of social disorganization (pp. 784-785).
+* Socioeconomic status (p. 784)
+* Residential stability/mobility (p. 784)
+* Ethnic heterogeneity (pp. 784-785)
+* Family disruption (p. 785)
+* Urbanization (p. 785)
+* Measuring the outcome variables: crime and delinquency (pp. 785-786)
+* Total victimization rate (p. 785)
+* Victimization for specific types of violent crime (p. 785)
+* Triangulation (p. 785)
+* Property victimization (p. 785)
+* Self-reported offending (p. 786)
+* Table 1 on page 787 summarizes all of the basic information about the measures.
