@@ -655,7 +655,7 @@ s0
 
 ### Lesson 32 - Monday 10/12/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/fg_uPBgxjwI).
 * Reminder about how to check on your grades in Blackboard (use course tools and then go under "My Grades"; click on the assignment or the grade; you should be able to see what was marked correct, and what was marked incorrect on your assignments).
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Variability across communities on key measures (pp. 786-787; Table 1).
