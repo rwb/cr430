@@ -681,28 +681,127 @@ s0
 | Unsup Peer Groups     | +            | +              | +             |
 | Org. Participation    | -            | -              | -             |
 
-* Summary of household/property victimization results (based on Table 4).
+* Note that unsupervised teenage peer groups both have positive effects on all crime outcomes.
+* Family disruption has positive effects on most of the crime outcomes.
+* Community SES has significant effects on social disorganization but not on crime after controlling for social disorganization.
+* What does it mean to "control for a variable"?
+* Here is an example:
 
-| Predictors            | Burglary | Auto Theft | Vandalism |
-|:----------------------|:---------------:|:-----------------:|:------------------:| 
-| Socioeconomic Status  | +            | -              | -             |
-| Ethnic Heterogeneity  | +            |                |               |
-| Residential Stability |              | -              | -             |
-| Family Disruption     | +            | +              |               |
-| Urbanization          | +            | +              |               |
-| Friendship Networks   | -            |                |               |
-| Unsup Peer Groups     | +            | +              | +             |
-| Org. Participation    | -            | -              |               |
+```rout
+# simulated data set of 500 neighborhoods
 
-* Summary of self-reported offending results (based on Table 5).
+> pov <- ifelse(rnorm(n=500,mean=0,sd=1)>0,1,0)
+> upg <- ifelse((-1+pov+rnorm(n=500,mean=0,sd=1))>0,1,0)
+> crm <- ifelse((-1+1.5*upg+rnorm(n=500,mean=0,sd=1))>0,1,0)
+>
+> table(upg,pov)
+   pov
+upg   0   1
+  0 210 123
+  1  48 119
+> 
+> py1x1 <- 119/(123+119)
+> py1x1
+[1] 0.4917355
+> py1x0 <- 48/(210+48)
+> py1x0
+[1] 0.1860465
+> py1x1-py1x0
+[1] 0.305689
+> 
+> t1 <- table(crm,pov)
+> t1
+   pov
+crm   0   1
+  0 184 135
+  1  74 107
+> 
+> py1x1 <- 107/(135+107)
+> py1x1
+[1] 0.4421488
+> py1x0 <- 74/(184+74)
+> py1x0
+[1] 0.2868217
+> delta <- py1x1-py1x0
+> delta
+[1] 0.1553271
+> 
+> t2 <- table(crm,pov,upg)
+> t2
 
-| Predictors            | Personal Violence | Property Theft / Vandalism |
-|:----------------------|:---------------:|:-----------------:| 
-| Socioeconomic Status  |              |                |
-| Ethnic Heterogeneity  | +            |                |
-| Residential Stability |              |                |
-| Family Disruption     |              | +              |
-| Urbanization          |              |                |
-| Friendship Networks   |              | -              |
-| Unsup Peer Groups     | +            | +              |
-| Org. Participation    |              |                |
+UPG = 0
+   pov
+crm   0   1
+  0 171 104
+  1  39  19
+
+UPG = 1
+   pov
+crm   0   1
+  0  13  31
+  1  35  88
+
+> 
+> py1x1.upg0 <- 19/(104+19)
+> py1x1.upg0
+[1] 0.1544715
+> py1x0.upg0 <- 39/(171+39)
+> py1x0.upg0
+[1] 0.1857143
+> 
+> delta.upg0 <- py1x1.upg0-py1x0.upg0
+> delta.upg0
+[1] -0.03124274
+>
+> py1x1.upg1 <- 88/(31+88)
+> py1x1.upg1
+[1] 0.7394958
+> py1x0.upg1 <- 35/(13+35)
+> py1x0.upg1
+[1] 0.7291667
+>
+> deltag1
+[1] 0.01032913
+> 
+```
+* From this simulated example, we notice that poverty (pov) is strongly correlated with unsupervised peer groups (upg).
+* Fraction of high-poverty neighborhoods with high levels of unsupervised peer groups: 49%
+* Fraction of low-poverty neighborhoods with high levels of unsupervised peer groups: 19%
+* Difference is about 30 percentage points.
+* Next, we see that neighborhoods with high poverty are more likely to have high crime (crm).
+* Fraction of high-poverty neighborhoods with high levels of crime: 44%
+* Fraction of low-poverty neighborhoods with high levels of crime: 29%
+* Difference is about 15 percentage points.
+* Now, we divide the neighborhoods into groups based on whether they have high (N = 167) or low (N = 333) unsupervised peer groups.
+* Among the neighborhoods with low unsupervised peer groups, the fractions of high and low poverty neighborhoods with high levels of crime is virtually the same (16% vs. 19%).
+* Among the neighborhoods with high unsupervised peer groups, the fractions of high and low poverty neighborhoods with high levels of crime is also virtually the same (74% vs. 73%).
+* So poverty is correlated with unsupervised peer groups and crime 
+* But poverty is uncorrelated with crime *if* we control for unsupervised peer groups.
+* This is very similar to what Sampson and Groves observed in their analysis.
+
+<!--
+<!-- * Summary of household/property victimization results (based on Table 4).
+
+<!--| Predictors            | Burglary | Auto Theft | Vandalism |
+<!--|:----------------------|:---------------:|:-----------------:|:------------------:| 
+<!--| Socioeconomic Status  | +            | -              | -             |
+<!--| Ethnic Heterogeneity  | +            |                |               |
+<!--| Residential Stability |              | -              | -             |
+<!--| Family Disruption     | +            | +              |               |
+<!--| Urbanization          | +            | +              |               |
+<!--| Friendship Networks   | -            |                |               |
+<!--| Unsup Peer Groups     | +            | +              | +             |
+<!--| Org. Participation    | -            | -              |               |
+
+<!--* Summary of self-reported offending results (based on Table 5).
+
+<!--| Predictors            | Personal Violence | Property Theft / Vandalism |
+<!--|:----------------------|:---------------:|:-----------------:| 
+<!--| Socioeconomic Status  |              |                |
+<!--| Ethnic Heterogeneity  | +            |                |
+<!--| Residential Stability |              |                |
+<!--| Family Disruption     |              | +              |
+<!--| Urbanization          |              |                |
+<!--| Friendship Networks   |              | -              |
+<!--| Unsup Peer Groups     | +            | +              |
+<!--| Org. Participation    |              |                | -->
