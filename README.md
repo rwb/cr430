@@ -668,7 +668,7 @@ s0
 | Family Disruption     |              | +              |               |
 | Urbanization          | -            | +              |               |
 
-* Summary of second-stage results (based on Table 3)
+* Summary of violent and total victimization results (based on Table 3)
 
 | Predictors            | Mugging/Robbery | Stranger Violence | Total Victimization|
 |:----------------------|:---------------:|:-----------------:|:------------------:| 
@@ -680,3 +680,29 @@ s0
 | Friendship Networks   | -            |                | -             |
 | Unsup Peer Groups     | +            | +              | +             |
 | Org. Participation    | -            | -              | -             |
+
+* Summary of household/property victimization results (based on Table 4).
+
+| Predictors            | Burglary | Auto Theft | Vandalism |
+|:----------------------|:---------------:|:-----------------:|:------------------:| 
+| Socioeconomic Status  | +            | -              | -             |
+| Ethnic Heterogeneity  | +            |                |               |
+| Residential Stability |              | -              | -             |
+| Family Disruption     | +            | +              |               |
+| Urbanization          | +            | +              |               |
+| Friendship Networks   | -            |                |               |
+| Unsup Peer Groups     | +            | +              | +             |
+| Org. Participation    | -            | -              |               |
+
+* Summary of self-reported offending results (based on Table 5).
+
+| Predictors            | Personal Violence | Property Theft / Vandalism |
+|:----------------------|:---------------:|:-----------------:| 
+| Socioeconomic Status  |              |                |
+| Ethnic Heterogeneity  | +            |                |
+| Residential Stability |              |                |
+| Family Disruption     |              | +              |
+| Urbanization          |              |                |
+| Friendship Networks   |              | -              |
+| Unsup Peer Groups     | +            | +              |
+| Org. Participation    |              |                |
