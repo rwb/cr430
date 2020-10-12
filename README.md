@@ -660,9 +660,7 @@ s0
 * Variability across communities on key measures (pp. 786-787; Table 1).
 * Summary of first-stage results (based on Table 2).
 
-| Causes of             | Local        | Unsupervised   | Participation |
-| Social                | Friendship   | Peer           | in Local      |
-| Disorganization       | Networks     | Groups         | Organizations |
+| Predictors            | Local Friendship | Unsup Peer Groups | Org. Participation |
 |:----------------------|:------------:|:--------------:|:-------------:| 
 | Socioeconomic Status  |              | -              | +             |
 | Ethnic Heterogeneity  |              | +              |               |
@@ -672,10 +670,8 @@ s0
 
 * Summary of second-stage results (based on Table 3)
 
-| Predictors of         | Mugging/     | Stranger       |               |
-| Crime &               | Street       | Violence       | Total         |
-| Delinquency           | Robbery      | (Rape/Assault) | Victimization |
-|:----------------------|:------------:|:--------------:|:-------------:| 
+| Predictors            | Mugging/Robbery | Stranger Violence | Total Victimization|
+|:----------------------|:---------------:|:-----------------:|:------------------:| 
 | Socioeconomic Status  |              |                |               |
 | Ethnic Heterogeneity  | +            |                |               |
 | Residential Stability |              |                |               |
