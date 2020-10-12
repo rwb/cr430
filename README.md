@@ -695,10 +695,10 @@ s0
 > crm <- ifelse((-1+1.5*upg+rnorm(n=500,mean=0,sd=1))>0,1,0)
 >
 > table(upg,pov)
-   pov
-upg   0   1
-  0 210 123
-  1  48 119
+       pov
+upg    low high
+low    210 123
+ high   48 119
 > 
 > py1x1 <- 119/(123+119)
 > py1x1
@@ -711,10 +711,10 @@ upg   0   1
 > 
 > t1 <- table(crm,pov)
 > t1
-   pov
-crm   0   1
-  0 184 135
-  1  74 107
+      pov
+crm   low high
+low    184 135
+high    74 107
 > 
 > py1x1 <- 107/(135+107)
 > py1x1
@@ -729,17 +729,17 @@ crm   0   1
 > t2 <- table(crm,pov,upg)
 > t2
 
-UPG = 0
-   pov
-crm   0   1
-  0 171 104
-  1  39  19
+UPG = low
+      pov
+crm   low  high
+low    171  104
+high    39   19
 
-UPG = 1
-   pov
-crm   0   1
-  0  13  31
-  1  35  88
+UPG = high
+      pov
+crm   low  high
+low      13  31
+high     35  88
 
 > 
 > py1x1.upg0 <- 19/(104+19)
