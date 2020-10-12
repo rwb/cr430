@@ -638,6 +638,7 @@ s0
 ### Lesson 31 - Sunday 10/11/20
 
 * Lecture link is [here](https://youtu.be/7TIIgV6nbJY).
+* Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * Measuring causes of social disorganization (pp. 784-785).
 * Socioeconomic status (p. 784)
 * Residential stability/mobility (p. 784)
@@ -651,3 +652,35 @@ s0
 * Property victimization (p. 785)
 * Self-reported offending (p. 786)
 * Table 1 on page 787 summarizes all of the basic information about the measures.
+
+### Lesson 32 - Monday 10/12/20
+
+* Lecture link is coming soon.
+* Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
+* Variability across communities on key measures (pp. 786-787; Table 1).
+* Summary of first-stage results (based on Table 2).
+
+| Causes of             | Local        | Unsupervised   | Participation |
+| Social                | Friendship   | Peer           | in Local      |
+| Disorganization       | Networks     | Groups         | Organizations |
+|:----------------------|:------------:|:--------------:|:-------------:| 
+| Socioeconomic Status  |              | -              | +             |
+| Ethnic Heterogeneity  |              | +              |               |
+| Residential Stability | +            | + (?)          |               |
+| Family Disruption     |              | +              |               |
+| Urbanization          | -            | +              |               |
+
+* Summary of second-stage results (based on Table 3)
+
+| Predictors of         | Mugging/     | Stranger       |               |
+| Crime &               | Street       | Violence       | Total         |
+| Delinquency           | Robbery      | (Rape/Assault) | Victimization |
+|:----------------------|:------------:|:--------------:|:-------------:| 
+| Socioeconomic Status  |              |                |               |
+| Ethnic Heterogeneity  | +            |                |               |
+| Residential Stability |              |                |               |
+| Family Disruption     | +            | +              | +             |
+| Urbanization          | +            |                | +             |
+| Friendship Networks   | -            |                | -             |
+| Unsup Peer Groups     | +            | +              | +             |
+| Org. Participation    | -            | -              | -             |
