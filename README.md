@@ -782,7 +782,7 @@ high     35  88
 
 ### Lesson 33 - Tuesday 10/13/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/OlWW8MuOhFA).
 * Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
 * We will conclude our reading of Sampson and Groves' (1989) paper with today's lesson.
 * Today's lesson will also conclude the material being covered on Assignment #8 which will be open from Thursday 10/15/20 - Friday 10/16/20.
