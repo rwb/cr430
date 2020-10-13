@@ -787,9 +787,7 @@ high     35  88
 * We will conclude our reading of Sampson and Groves' (1989) paper with today's lesson.
 * Today's lesson will also conclude the material being covered on Assignment #8 which will be open from Thursday 10/15/20 - Friday 10/16/20.
 * The results for household and property victimization as well as the results for self-reported offending are summarized below.
-
 * Summary of household/property victimization results (based on Table 4).
-
 | Predictors            | Burglary | Auto Theft | Vandalism |
 |:----------------------|:---------------:|:-----------------:|:------------------:| 
 | Socioeconomic Status  | +            | -              | -             |
@@ -800,9 +798,7 @@ high     35  88
 | Friendship Networks   | -            |                |               |
 | Unsup Peer Groups     | +            | +              | +             |
 | Org. Participation    | -            | -              |               |
-
-Summary of self-reported offending results (based on Table 5).
-
+* Summary of self-reported offending results (based on Table 5).
 | Predictors            | Personal Violence | Property Theft / Vandalism |
 |:----------------------|:---------------:|:-----------------:| 
 | Socioeconomic Status  |              |                |
@@ -813,7 +809,6 @@ Summary of self-reported offending results (based on Table 5).
 | Friendship Networks   |              | -              |
 | Unsup Peer Groups     | +            | +              |
 | Org. Participation    |              |                |
-
 * Sampson and Groves performed a variety of specification and consistency tests to check on the fragility of their results (discussion begins on p. 793).
 * Influential observations (pp. 793-794).
 * Construct validity of strong unsupervised teenage peer groups effect on crime (p. 794). 
