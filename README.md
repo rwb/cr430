@@ -780,29 +780,46 @@ high     35  88
 * But poverty is uncorrelated with crime *if* we control for unsupervised peer groups.
 * This is very similar to what Sampson and Groves observed in their analysis.
 
-<!--
-<!-- * Summary of household/property victimization results (based on Table 4).
+### Lesson 33 - Tuesday 10/13/20
 
-<!--| Predictors            | Burglary | Auto Theft | Vandalism |
-<!--|:----------------------|:---------------:|:-----------------:|:------------------:| 
-<!--| Socioeconomic Status  | +            | -              | -             |
-<!--| Ethnic Heterogeneity  | +            |                |               |
-<!--| Residential Stability |              | -              | -             |
-<!--| Family Disruption     | +            | +              |               |
-<!--| Urbanization          | +            | +              |               |
-<!--| Friendship Networks   | -            |                |               |
-<!--| Unsup Peer Groups     | +            | +              | +             |
-<!--| Org. Participation    | -            | -              |               |
+* Lecture link is coming soon.
+* Our current reading: [Sampson and Groves (1989)](https://dash.harvard.edu/bitstream/handle/1/3226955/Sampson_CommunityStructureCrime.pdf?sequence=2&origin=publication_detail)
+* We will conclude our reading of Sampson and Groves' (1989) paper with today's lesson.
+* Today's lesson will also conclude the material being covered on Assignment #8 which will be open from Thursday 10/15/20 - Friday 10/16/20.
+* The results for household and property victimization as well as the results for self-reported offending are summarized below.
 
-<!--* Summary of self-reported offending results (based on Table 5).
+* Summary of household/property victimization results (based on Table 4).
 
-<!--| Predictors            | Personal Violence | Property Theft / Vandalism |
-<!--|:----------------------|:---------------:|:-----------------:| 
-<!--| Socioeconomic Status  |              |                |
-<!--| Ethnic Heterogeneity  | +            |                |
-<!--| Residential Stability |              |                |
-<!--| Family Disruption     |              | +              |
-<!--| Urbanization          |              |                |
-<!--| Friendship Networks   |              | -              |
-<!--| Unsup Peer Groups     | +            | +              |
-<!--| Org. Participation    |              |                | -->
+| Predictors            | Burglary | Auto Theft | Vandalism |
+|:----------------------|:---------------:|:-----------------:|:------------------:| 
+| Socioeconomic Status  | +            | -              | -             |
+| Ethnic Heterogeneity  | +            |                |               |
+| Residential Stability |              | -              | -             |
+| Family Disruption     | +            | +              |               |
+| Urbanization          | +            | +              |               |
+| Friendship Networks   | -            |                |               |
+| Unsup Peer Groups     | +            | +              | +             |
+| Org. Participation    | -            | -              |               |
+
+Summary of self-reported offending results (based on Table 5).
+
+| Predictors            | Personal Violence | Property Theft / Vandalism |
+|:----------------------|:---------------:|:-----------------:| 
+| Socioeconomic Status  |              |                |
+| Ethnic Heterogeneity  | +            |                |
+| Residential Stability |              |                |
+| Family Disruption     |              | +              |
+| Urbanization          |              |                |
+| Friendship Networks   |              | -              |
+| Unsup Peer Groups     | +            | +              |
+| Org. Participation    |              |                |
+
+* Sampson and Groves performed a variety of specification and consistency tests to check on the fragility of their results (discussion begins on p. 793).
+* Influential observations (pp. 793-794).
+* Construct validity of strong unsupervised teenage peer groups effect on crime (p. 794). 
+* Construct validity of frienship ties and organizational participation effects on crime (p. 794).
+* First dataset that was used in this study was the 1982 British Crime Survey; although it has many strengths there were some concerns (p. 795).
+* Replication study - 1984 British Crime Survey -- is used to address three issues: (1) are the 1982 BCS results fragile?; (2) concerns about the "nuisance" focus of the 1982 unsupervised teenage peer groups question; and (3) concerns about the proportion way of counting friendship ties in the 1982 BCS.
+* The 1984 BCS is not on the same footing for testing hypotheses about social disorganization theory - unit of analysis problem (p. 796).
+* But there were some improvements in the way the questions were asked.
+* Weaknesses: (1) unexplained variance; (2) broader set of community organization variables would be helpful; (3) imprecision of organizational participation variable; (4) better measures of friendship networks and gang presence are needed.
