@@ -822,3 +822,17 @@ high     35  88
 * The 1984 BCS is not on the same footing for testing hypotheses about social disorganization theory - unit of analysis problem (p. 796).
 * But there were some improvements in the way the questions were asked.
 * Weaknesses: (1) unexplained variance; (2) broader set of community organization variables would be helpful; (3) imprecision of organizational participation variable; (4) better measures of friendship networks and gang presence are needed.
+
+### Lesson 34 - Saturday 10/17/20
+
+* Lecture link is coming soon.
+* Our current reading: [Sampson et al. (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf).
+* Next short papers are due on Wednesday 10/28/20.
+* Today's lesson is the beginning of the material that will be covered on Assignment #9.
+* Recall that Sampson and Groves added on some new ideas to Shaw and McKay's original theoretical framework.
+* Now, in this paper, Sampson will again present some important modifications to social disorganization theory.
+* The revised theoretical framework revolves around the key concept of *collective efficacy*.
+* Introductory issue is the lost letter experiment (not discussed in this article but is discussed in a book written by Sampson called *Great American City*).
+* Useful to think of collective efficacy as the old idea of social organization + social cohesion and trust.
+* The key modification here is the addition of affectively important local relationships that can be activated to build consensus about and serve the community's needs (p. 918).
+* Importantly -- and contrary to broken windows theory -- Sampson and his colleagues do not look primarily to legal institutions to solve community problems (p. 918).
