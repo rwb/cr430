@@ -825,7 +825,7 @@ high     35  88
 
 ### Lesson 34 - Saturday 10/17/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/EMPp45j4Ir8).
 * Our new reading: [Sampson et al. (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf).
 * Next short papers are due on Wednesday 10/28/20.
 * Today's lesson is the beginning of the material that will be covered on Assignment #9.
