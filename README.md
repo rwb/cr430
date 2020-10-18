@@ -846,7 +846,6 @@ high     35  88
 * Community variability in organization, advocacy, and social cohesion/trust (pp. 918-919).
 * Factors influencing collective efficacy (p. 919).
 * Measuring collective efficacy (pp. 919-920).
-* Causal model of collective efficacy (p. 921).
+* Causal model of collective efficacy (p. 921; Table 3).
 * Measuring neighborhood violent crime (pp. 921-922).
-* Causal model of violent crime (p. 922).
-* Causal model of 
+* Causal model of violent crime (p. 922; Table 4).
