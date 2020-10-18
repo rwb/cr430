@@ -836,3 +836,17 @@ high     35  88
 * Useful to think of collective efficacy as the old idea of social organization + social cohesion and trust.
 * The key modification here is the addition of affectively important local relationships that can be activated to build consensus about and serve the community's needs (p. 918).
 * Importantly -- and contrary to broken windows theory -- Sampson and his colleagues do not look primarily to legal institutions to solve community problems (p. 918).
+
+### Lesson 35 - Sunday 10/18/20
+
+* Lecture link is coming soon.
+* Our current reading: [Sampson et al. (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf).
+* Today, we discuss several key theoretical propositions in the Sampson et al. (1997) paper.
+* Formal vs. informal social controls/collective efficacy (p. 918).
+* Community variability in organization, advocacy, and social cohesion/trust (pp. 918-919).
+* Factors influencing collective efficacy (p. 919).
+* Measuring collective efficacy (pp. 919-920).
+* Causal model of collective efficacy (p. 921).
+* Measuring neighborhood violent crime (pp. 921-922).
+* Causal model of violent crime (p. 922).
+* Causal model of 
