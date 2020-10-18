@@ -839,7 +839,7 @@ high     35  88
 
 ### Lesson 35 - Sunday 10/18/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/oJ8WJyCA_hY).
 * Our current reading: [Sampson et al. (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf).
 * Today, we discuss several key theoretical propositions in the Sampson et al. (1997) paper.
 * Formal vs. informal social controls/collective efficacy (p. 918).
