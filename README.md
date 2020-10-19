@@ -858,3 +858,6 @@ high     35  88
 * Our current focus is on the study results.
 * Table 3 explains the variation in collective efficacy across neighborhoods (p. 921).
 * Table 4 explains the variation in interpersonal violence across neighborhoods (p. 922).
+* New study is [Kelling and Wilson (1982)](https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/).
+* Foot patrol and policing of minor disorder and incivilities.
+* Newark Foot Patrol Experiment; impact on crime and fear of crime.
