@@ -849,3 +849,16 @@ high     35  88
 * Causal model of collective efficacy (p. 921; Table 3).
 * Measuring neighborhood violent crime (pp. 921-922).
 * Causal model of violent crime (p. 922; Table 4).
+
+### Lesson 36 - Monday 10/19/20
+
+* Lecture link is coming soon.
+* Our current reading: [Sampson et al. (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf).
+* We will be finishing the Sampson et al. (1997) paper today.
+* Our current focus is on the study results.
+* Table 3 explains the variation in collective efficacy across neighborhoods (p. 921).
+* Table 4 explains the variation in interpersonal violence across neighborhoods (p. 922).
+* New study is [Kelling and Wilson (1982)](https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/).
+* Foot patrol and policing of minor disorder and incivilities.
+* Newark Foot Patrol Experiment.
+* Case study of a police officer named Kelly on foot patrol.
