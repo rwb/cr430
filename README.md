@@ -861,3 +861,15 @@ high     35  88
 * New study is [Kelling and Wilson (1982)](https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/).
 * Foot patrol and policing of minor disorder and incivilities.
 * Newark Foot Patrol Experiment; impact on crime and fear of crime.
+
+### Lesson 37 - Tuesday 10/20/20
+
+* Lecture link is coming soon.
+* Second short papers are now due on Wednesday 10/28 (see preamble to Lesson 30 above).
+* Our current reading is [Kelling and Wilson (1982)](https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/).
+* Today's lesson concludes the material that will be covered on Assignment #9 which will be open on Thursday 10/22 and Friday 10/23.
+* Newark Foot Patrol Experiment (continued)
+* Larger crime context in which the Newark Foot Patrol Experiment occurred.
+* Kelly's beat in the city of Newark.
+* Zimbardo experiment
+* Fear of crime leads to weakened social controls (same idea that is promoted by Sampson) which further exacerbates crime and disorder.
