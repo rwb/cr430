@@ -852,7 +852,7 @@ high     35  88
 
 ### Lesson 36 - Monday 10/19/20
 
-* Lecture link is [here](https://youtu.be/Pzo5-yXV7yw).
+* Lecture link is [here](https://youtu.be/DQAW7vMlHOw).
 * Our current reading: [Sampson et al. (1997)](http://www.d.umn.edu/~jmaahs/MA%20Theory%20Articles/Sampson%20et%20al%20collective%20efficacy.pdf).
 * We will be finishing the Sampson et al. (1997) paper today.
 * Our current focus is on the study results.
