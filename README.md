@@ -864,7 +864,7 @@ high     35  88
 
 ### Lesson 37 - Tuesday 10/20/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/snihPsZbVwg).
 * Second short papers are now due on Wednesday 10/28 (see preamble to Lesson 30 above).
 * Our current reading is [Kelling and Wilson (1982)](https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/).
 * Today's lesson concludes the material that will be covered on Assignment #9 which will be open on Thursday 10/22 and Friday 10/23.
