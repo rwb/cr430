@@ -873,3 +873,13 @@ high     35  88
 * Kelly's beat in the city of Newark.
 * Zimbardo experiment
 * Fear of crime leads to weakened social controls (same idea that is promoted by Sampson) which further exacerbates crime and disorder.
+
+### Lesson 38 - Saturday 10/24/20
+
+* Lecture link is coming soon.
+* Second short papers are due on Wednesday 10/28 (see preamble to Lesson 30 above).
+* Today's lesson is the first material covered on Assignment #10 (Thursday 10/29-Friday 10/30).
+* Main topic: Broken windows, order maintenance, zero tolerance policing.
+* Routine activities theory - emphasis on target suitability and guardianship.
+* Research evidence: a focus on New York City which implemented many of the Kelling-Wilson principles and the city experienced a large crime drop: [link](http://johnjay.jjay.cuny.edu/files/Greenberg_New__York_City_Crime_Decline_Methodological_Issues.pdf).
+* There are at least 7 difficult problems with efforts to evaluate the effects of order maintenance policing: (1) community relations; (2) crime reporting; (3) crime displacement; (4) history; (5) instrumentation; (6) civil liberties; and (7) resource displacement.
