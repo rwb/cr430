@@ -876,7 +876,7 @@ high     35  88
 
 ### Lesson 38 - Saturday 10/24/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/h8IIqiq9dmw).
 * Second short papers are due on Wednesday 10/28 (see preamble to Lesson 30 above).
 * Today's lesson is the first material covered on Assignment #10 (Thursday 10/29-Friday 10/30).
 * Main topic: Broken windows, order maintenance, zero tolerance policing.
