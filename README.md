@@ -883,3 +883,11 @@ high     35  88
 * Routine activities theory - emphasis on target suitability and guardianship.
 * Research evidence: a focus on New York City which implemented many of the Kelling-Wilson principles and the city experienced a large crime drop: [link](http://johnjay.jjay.cuny.edu/files/Greenberg_New__York_City_Crime_Decline_Methodological_Issues.pdf).
 * There are at least 7 difficult problems with efforts to evaluate the effects of order maintenance policing: (1) community relations; (2) crime reporting; (3) crime displacement; (4) history; (5) instrumentation; (6) civil liberties; and (7) resource displacement.
+
+### Lesson 39 - Sunday 10/25/20
+
+* Lecture link is coming soon.
+* Reminder: Second short papers are due on Wednesday 10/28 (see preamble to Lesson 30 above). I am also reminding you that you should write your paper on a different article than the one you wrote on previously. 
+* Today we shift our emphasis to the Kansas City Preventive Patrol Experiment ([Kelling et al., 1974](https://www.policefoundation.org/wp-content/uploads/2015/07/Kelling-et-al.-1974-THE-KANSAS-CITY-PREVENTIVE-PATROL-EXPERIMENT.pdf)).
+* This research project deals with an age-old question in discussions about police deployment: how much time should the police devote to random motorized police patrol?
+* 
