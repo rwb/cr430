@@ -886,7 +886,7 @@ high     35  88
 
 ### Lesson 39 - Sunday 10/25/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/MsBTq5gZmRs).
 * Reminder: Second short papers are due on Wednesday 10/28 (see preamble to Lesson 30 above). I am also reminding you that you should write your paper on a different article than the one you wrote on previously. 
 * Today we shift our emphasis to the Kansas City Preventive Patrol Experiment ([Kelling et al., 1974](https://www.policefoundation.org/wp-content/uploads/2015/07/Kelling-et-al.-1974-THE-KANSAS-CITY-PREVENTIVE-PATROL-EXPERIMENT.pdf)).
 * This research project deals with an age-old question in discussions about police deployment: how much time should the police devote to random motorized police patrol?
