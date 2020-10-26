@@ -891,3 +891,17 @@ high     35  88
 * Today we shift our emphasis to the Kansas City Preventive Patrol Experiment ([Kelling et al., 1974](https://www.policefoundation.org/wp-content/uploads/2015/07/Kelling-et-al.-1974-THE-KANSAS-CITY-PREVENTIVE-PATROL-EXPERIMENT.pdf)).
 * This research project deals with an age-old question in discussions about police deployment: how much time should the police devote to random motorized police patrol?
 * In today's class, we consider the context for the preventive patrol experiment.
+
+### Lesson 40 - Monday 10/26/20
+
+* Lecture link is coming soon.
+* Today, we continue our discussion of the Kansas City Preventive Patrol Experiment (KCPPE; [link]((https://www.policefoundation.org/wp-content/uploads/2015/07/Kelling-et-al.-1974-THE-KANSAS-CITY-PREVENTIVE-PATROL-EXPERIMENT.pdf)).
+* Yesterday, we focused on the overall context of the KCPPE.
+* Today, we turn to the implementation of the experiment and the main study findings.
+* Study had a safety valve for reverting back to normal conditions (p. 8).
+* The experiment began on 7/19/72 but had to be stopped by mid-August because "experimental conditions were not being maintained" (p. 8).
+* Three problems: (1) manpower imbalances; (2) experimental noncompliance; and (3) boredom among officers in the reactive beats (pp. 8-9).
+* Experiment restarted on 10/1/72 and ended on 9/30/73.
+* Measurement of primary study outcomes was based on: (1) crimes reported to the police; (2) victimization surveys; (3) arrest data; (4) business surveys; (5) busines and citizen surveys of safety and self-help measures; (6) traffic data; and (7) response times for police service calls (pp. 10-11).
+* Other outcomes were based on measures of police officer perceptions, a noncommitted time survey, and spillover (displacement effects) (p. 11).
+* Page 14 lists a wide range of specific outcomes associated with the experiment.
