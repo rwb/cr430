@@ -894,7 +894,7 @@ high     35  88
 
 ### Lesson 40 - Monday 10/26/20
 
-* Lecture link is coming soon.
+* Lecture link is [here](https://youtu.be/QH00vId0KYE).
 * Today, we continue our discussion of the Kansas City Preventive Patrol Experiment (KCPPE; [link]((https://www.policefoundation.org/wp-content/uploads/2015/07/Kelling-et-al.-1974-THE-KANSAS-CITY-PREVENTIVE-PATROL-EXPERIMENT.pdf)).
 * Yesterday, we focused on the overall context of the KCPPE.
 * Today, we turn to the implementation of the experiment and the main study findings.
