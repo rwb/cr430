@@ -905,3 +905,16 @@ high     35  88
 * Measurement of primary study outcomes was based on: (1) crimes reported to the police; (2) victimization surveys; (3) arrest data; (4) business surveys; (5) busines and citizen surveys of safety and self-help measures; (6) traffic data; and (7) response times for police service calls (pp. 10-11).
 * Other outcomes were based on measures of police officer perceptions, a noncommitted time survey, and spillover (displacement effects) (p. 11).
 * Page 14 lists a wide range of specific outcomes associated with the experiment.
+
+### Lesson 41 - Tuesday 10/27/20
+
+* Lecture link is coming soon.
+* Today is the final lesson for Assignment #10 which will be open from Thursday 10/29 to Friday 10/30.
+* Reminder that your second short papers (pdf format please) are due tomorrow by 11:59pm (ET). The Blackboard paper submission window is now open.
+* We conclude our discussion of the Kansas City Preventive Patrol Experiment (KCPPE; [link](https://www.policefoundation.org/wp-content/uploads/2015/07/Kelling-et-al.-1974-THE-KANSAS-CITY-PREVENTIVE-PATROL-EXPERIMENT.pdf)).
+* Comparing reactive, control, and proactive beats on crime outcomes.
+* Comparing reactive, control, and proactive beats on other outcomes such as fear of crime, self-help measures, and response time.
+* Thematic results of the KCPPE.
+* Strengths and weaknesses of the KCPPE.
+* Our second policy paper is the Washington, DC Gun Study ([Loftin et al., 1991](https://www.nejm.org/doi/pdf/10.1056/NEJM199112053252305))
+* Legal and policy context for the Washington DC Gun Study (p. 1615)
