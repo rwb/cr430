@@ -915,6 +915,5 @@ high     35  88
 * Comparing reactive, control, and proactive beats on crime outcomes.
 * Comparing reactive, control, and proactive beats on other outcomes such as fear of crime, self-help measures, and response time.
 * Thematic results of the KCPPE.
-* Strengths and weaknesses of the KCPPE.
 * Our second policy paper is the Washington, DC Gun Study ([Loftin et al., 1991](https://www.nejm.org/doi/pdf/10.1056/NEJM199112053252305))
 * Legal and policy context for the Washington DC Gun Study (p. 1615)
