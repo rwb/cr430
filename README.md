@@ -908,7 +908,7 @@ high     35  88
 
 ### Lesson 41 - Tuesday 10/27/20
 
-* Lecture link is [here](https://youtu.be/A8atYQZIc1E).
+* Lecture link is [here](https://youtu.be/KCypzwQKA6o).
 * Today is the final lesson for Assignment #10 which will be open from Thursday 10/29 to Friday 10/30.
 * Reminder that your second short papers (pdf format please) are due tomorrow by 11:59pm (ET). The Blackboard paper submission window is now open.
 * We conclude our discussion of the Kansas City Preventive Patrol Experiment (KCPPE; [link](https://www.policefoundation.org/wp-content/uploads/2015/07/Kelling-et-al.-1974-THE-KANSAS-CITY-PREVENTIVE-PATROL-EXPERIMENT.pdf)).
