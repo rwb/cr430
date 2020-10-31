@@ -917,3 +917,5 @@ high     35  88
 * Thematic results of the KCPPE.
 * Our second policy paper is the Washington, DC Gun Study ([Loftin et al., 1991](https://www.nejm.org/doi/pdf/10.1056/NEJM199112053252305))
 * Legal and policy context for the Washington DC Gun Study (p. 1615)
+
+### Please Note: Beginning with Lesson 42, all lesson notes and video links will be emailed to you each day that new content is posted. This website will continue to stay up until the end of the semester so you can refer back to it anytime you need to.
