@@ -26,6 +26,8 @@ If you have or think you might have a disability, injury, or other condition tha
 
 You are expected to practice the highest standards of academic integrity. Any deviation from this expectation will result in a minimum academic penalty of your failing the assignment, and may result in additional disciplinary measures. This includes improper citation of sources, presenting someone else's work as your own, and any other form of academic misrepresentation. Please take a few moments to familarize yourself with the University's expectations for student academic integrity which can be found [here](http://www.sc.edu/policies/ppm/staf625.pdf).
 
+[link](https://github.com/rwb/cr430/blob/master/ss.pdf)
+
 #### Class Format
 
 We have about 14 weeks of class time this semester. With an in-person class, we normally meet 150 minutes per week. I plan to approximate this same level of lecture time (using video recordings) in this asynchronous online course. All course content will be posted on this webpage. You are responsible for developing and maintaining a regular schedule of: (1) monitoring the course webpage for both content and course-related announcements; (2) doing your assigned reading; (3) reviewing the posted content; and (4) completing your assignments in a timely fashion. Please feel free to email me with any questions (either content or logistics).
